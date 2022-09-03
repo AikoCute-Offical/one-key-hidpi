@@ -22,7 +22,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/AikoCute-Offical/one-key
 
 2.Local Mode: Tải xuống ZIP, giải nén nó và nhấp đúp vào `hidpi.command` để chạy
 
-! [RUN](./img/run.jpg)
+![RUN](./img/run.jpg)
 
 ## Sự hồi phục
 
