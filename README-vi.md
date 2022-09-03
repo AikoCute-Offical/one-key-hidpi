@@ -60,7 +60,7 @@ cd "user name"
 
 2.
 
-Xóa tất cả thư mục DisplayVendorID của màn hình được chèn trong `Thư viện / Màn hình / Nội dung / Tài nguyên / Ghi đè`
+Xóa tất cả thư mục DisplayVendorID của màn hình được chèn trong `Library/Displays/Contents/Resources/Overrides`
 
 ```bash
 ls /Volumes/
